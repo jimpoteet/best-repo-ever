@@ -1,4 +1,4 @@
 # best-repo-ever
 
 This is some content...
-Branch 2 content
+This is some more new content for new-branch-1
